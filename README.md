@@ -1,4 +1,4 @@
-Hello, I'm @Jx1yG! 👋
+Hello, I'm Jonathan Guan 👋
 
 Welcome to my GitHub profile! I'm a passionate computer science enthusiast with a focus on Java programming. Here's a little about me:
 
